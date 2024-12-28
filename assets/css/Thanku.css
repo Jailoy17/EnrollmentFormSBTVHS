@@ -1,0 +1,45 @@
+@import url("https://fonts.googleapis.com/css2?family=Poppins:wght@400;600;700&display=swap");
+
+*{
+font-family: "Poppins", sans-serif;
+}
+
+.jumbotron {
+background-color: #ffffff;
+}
+
+.jumbotron {
+color:  #000000;
+}
+
+.btn-primary {
+background-color: #ffffff;
+border-color:  #fffafa;
+}
+
+.btn-primary:hover {
+background-color:  #ffffff;
+border-color:  #ffffff;
+text-decoration: none;
+}
+
+h1, p {
+font-family: "Poppins", sans-serif;
+}
+
+.jumbotron {
+padding: 20px;
+margin-top: 10px;
+}
+
+a {
+color: #000000;
+}
+a:hover {
+text-decoration: underline;
+}
+
+.custom-paragraph {
+font-size: 16px;
+font-weight: bold;
+}
